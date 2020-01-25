@@ -7,7 +7,7 @@ Trabajo realizado por:
 * Zuzanna Elzbieta Szalaty: alu0101049687.
 
 A continunación se encuentran los enlaces correspondientes a:
-* [Modelo Conceptual (ER/E)](../master/ADBD-Proyecto/ER/).
+* [Modelo Conceptual (ER/E)](../master/ADBD-Proyecto/blob/master/ER/ADBD%20-%20E_R%20-%20Librería_Biblioteca%20de%20una%20Universidad.pdf).
 * [Modelo Lógico Relacional](../master/ADBD-Proyecto/"Modelo lógico - Diagrama Relacional"/LógicoRelacional.pdf).
 * [Modelo Lógico Objeto-Relacional (UML)](../master/ADBD-Proyecto/UML/UML - Biblioteca.pdf).
 * [Generación de Código (Scripts)](../master/ADBD-Proyecto/Script/ScriptCreacion.pdf).
