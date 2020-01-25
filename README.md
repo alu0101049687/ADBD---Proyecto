@@ -8,7 +8,7 @@ Trabajo realizado por:
 
 A continunación se encuentran los enlaces correspondientes a:
 * [Modelo Conceptual (ER/E)](../master/ADBD-Proyecto/ER/).
-* [Modelo Lógico Relacional](../master/ADBD-Proyecto/Modelo lógico - Diagrama Relacional/LógicoRelacional.pdf).
+* [Modelo Lógico Relacional](../master/ADBD-Proyecto/"Modelo lógico - Diagrama Relacional"/LógicoRelacional.pdf).
 * [Modelo Lógico Objeto-Relacional (UML)](../master/ADBD-Proyecto/UML/UML - Biblioteca.pdf).
 * [Generación de Código (Scripts)](../master/ADBD-Proyecto/Script/ScriptCreacion.pdf).
 * [Carga de datos](../master/ADBD-Proyecto/Construcción del Sistema de Información/CSI.pdf).
