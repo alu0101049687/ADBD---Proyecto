@@ -8,7 +8,7 @@ Trabajo realizado por:
 
 A continunación se encuentran los enlaces correspondientes a:
 * [Modelo Conceptual (ER/E)](../master/ER/ADBD%20-%20E_R%20-%20Librería_Biblioteca%20de%20una%20Universidad.pdf).
-* [Modelo Lógico Relacional](../master/Modelo%20lógico%20-%20Diagrama%20Relacional/LógicoRelacional.pdf.
-* [Modelo Lógico Objeto-Relacional (UML)](../master/ADBD-Proyecto/UML/UML%20-%20Biblioteca.pdf).
-* [Generación de Código (Scripts)](../master/ADBD-Proyecto/Script/ScriptCreacion.pdf).
-* [Carga de datos](../master/ADBD-Proyecto/Construcción%20del%20Sistema%20de%20Información).
+* [Modelo Lógico Relacional](../master/Modelo%20lógico%20-%20Diagrama%20Relacional/LógicoRelacional.pdf).
+* [Modelo Lógico Objeto-Relacional (UML)](../master/UML/UML%20-%20Biblioteca.pdf).
+* [Generación de Código (Scripts)](../master/Script/ScriptCreacion.pdf).
+* [Carga de datos](../master/Construcción%20del%20Sistema%20de%20Información).
