@@ -11,4 +11,4 @@ A continunación se encuentran los enlaces correspondientes a:
 * [Modelo Lógico Relacional](../master/Modelo%20lógico%20-%20Diagrama%20Relacional/LógicoRelacional.pdf).
 * [Modelo Lógico Objeto-Relacional (UML)](../master/UML/UML%20-%20Biblioteca.pdf).
 * [Generación de Código (Scripts)](../master/Script/ScriptCreacion.pdf).
-* [Carga de datos](../master/Construcción%20del%20Sistema%20de%20Información).
+* [Carga de datos](../master/Construcción%20del%20Sistema%20de%20Información/CSI.pdf).
