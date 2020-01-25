@@ -5,3 +5,10 @@ Trabajo realizado por:
 * Akshay Chatani Chatani: alu0101043739.
 * Benjamin Paddags: alu0101372617.
 * Zuzanna Elzbieta Szalaty: alu0101049687.
+
+A continunación se encuentran los enlaces correspondientes a:
+* [Modelo Conceptual (ER/E)](../master/ADBD-Proyecto/ER/ADBD - E_R - Librería_Biblioteca de una Universidad.pdf).
+* [Modelo Lógico Relacional](../master/ADBD-Proyecto/Modelo lógico - Diagrama Relacional/LógicoRelacional.pdf).
+* [Modelo Lógico Objeto-Relacional (UML)](../master/ADBD-Proyecto/UML/UML - Biblioteca.pdf).
+* [Generación de Código (Scripts)](../master/ADBD-Proyecto/Script/ScriptCreacion.pdf).
+* [Carga de datos](../master/ADBD-Proyecto/Construcción del Sistema de Información/CSI.pdf).
